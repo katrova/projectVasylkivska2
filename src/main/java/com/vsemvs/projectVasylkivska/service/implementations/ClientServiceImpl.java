@@ -11,11 +11,11 @@ import java.time.LocalDateTime;
 import java.util.List;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
-  @class  ClientServiceImpl
-  @version  1.0.0 
-  @since 7/30/2021 - 18.03
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
+  @class  Order
+  @version  1.0.0
+  @since 7/30/2021 - 15.12
 */
 
 @AllArgsConstructor

@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  GoodForm
   @version  1.0.0 
   @since 7/30/2021 - 18.39

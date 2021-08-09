@@ -10,11 +10,11 @@ import java.util.List;
 import java.util.UUID;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
-  @class  ClientFakeRepository
-  @version  1.0.0 
-  @since 7/30/2021 - 15.36
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
+  @class  Order
+  @version  1.0.0
+  @since 7/30/2021 - 15.12
 */
 @Repository
 public class ClientFakeRepository {

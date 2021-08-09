@@ -9,8 +9,8 @@ import java.time.LocalDateTime;
 import java.util.stream.Collectors;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  OrderReadForm
   @version  1.0.0 
   @since 7/31/2021 - 19.43

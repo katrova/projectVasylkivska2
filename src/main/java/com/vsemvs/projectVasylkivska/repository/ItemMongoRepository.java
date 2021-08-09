@@ -4,11 +4,11 @@ import com.vsemvs.projectVasylkivska.model.Item;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
-  @class  ItemMongoRepository
-  @version  1.0.0 
-  @since 7/23/2021 - 09.52
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
+  @class  Order
+  @version  1.0.0
+  @since 7/30/2021 - 15.12
 */
 public interface ItemMongoRepository extends MongoRepository<Item, String> {
 }

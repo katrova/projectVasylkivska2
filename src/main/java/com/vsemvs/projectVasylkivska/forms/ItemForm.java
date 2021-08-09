@@ -5,8 +5,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  ItemForm
   @version  1.0.0 
   @since 7/22/2021 - 10.42

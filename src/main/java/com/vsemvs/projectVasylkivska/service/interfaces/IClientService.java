@@ -5,11 +5,11 @@ import com.vsemvs.projectVasylkivska.model.Client;
 import java.util.List;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
-  @class  IClientService
-  @version  1.0.0 
-  @since 7/30/2021 - 18.01
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
+  @class  Order
+  @version  1.0.0
+  @since 7/30/2021 - 15.12
 */
 public interface IClientService {
     List<Client> getAll();

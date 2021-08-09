@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 import java.util.stream.Collectors;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  OrderForm
   @version  1.0.0 
   @since 7/31/2021 - 14.49

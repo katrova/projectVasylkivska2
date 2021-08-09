@@ -1,8 +1,8 @@
 package com.vsemvs.projectVasylkivska.controller.rest;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  GoodRestController
   @version  1.0.0 
   @since 7/19/2021 - 22.19

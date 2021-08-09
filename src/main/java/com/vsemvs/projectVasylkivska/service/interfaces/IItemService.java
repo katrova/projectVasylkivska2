@@ -5,11 +5,11 @@ import com.vsemvs.projectVasylkivska.model.Item;
 import java.util.List;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
-  @class  IItemServoce
-  @version  1.0.0 
-  @since 7/18/2021 - 19.22
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
+  @class  Order
+  @version  1.0.0
+  @since 7/30/2021 - 15.12
 */
 public interface IItemService {
     List<Item> getAll();

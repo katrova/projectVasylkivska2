@@ -5,8 +5,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @@author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  ClientForm
   @version  1.0.0 
   @since 7/30/2021 - 18.20

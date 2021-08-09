@@ -8,8 +8,8 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 
 /*
-  @author   Vitalii Krykun
-  @project   NewProjSlovakia
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  Item
   @version  1.0.0 
   @since 7/16/2021 - 12.10

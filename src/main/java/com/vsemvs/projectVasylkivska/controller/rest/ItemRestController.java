@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /*
-  @author   Vitalii Krykun
-  @project   NewProjSlovakia
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  ItemRestController
   @version  1.0.0 
   @since 7/16/2021 - 12.12

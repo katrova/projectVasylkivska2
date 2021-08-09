@@ -11,8 +11,8 @@ import java.time.LocalDateTime;
 import java.util.Objects;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  Client
   @version  1.0.0 
   @since 7/30/2021 - 15.03

@@ -1,10 +1,10 @@
 package com.vsemvs.projectVasylkivska.controller.gui;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  ItemGuiController
-  @version  1.0.0 
+  @version  1.0.0
   @since 7/20/2021 - 11.35
 */
 
