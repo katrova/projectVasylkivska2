@@ -1,8 +1,8 @@
 package com.vsemvs.projectVasylkivska.controller.gui;
 
 /*
-  @author   Vitalii Krykun
-  @project   project_slovakia2
+  @author   Kateryna Vasylkivska
+  @project   projectVasylkivska
   @class  GoodGuiController
   @version  1.0.0 
   @since 7/30/2021 - 18.16
